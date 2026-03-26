@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/asset-health-and-maintenance-platform-242237-242278/asset_management_database"
+}
